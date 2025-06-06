@@ -37,7 +37,7 @@ To identify user drop-offs, simplify complex onboarding flows, and create a mult
 
 > Want to preview the performance dashboard?
 
-- 👉 Open `05-Performance-Dashboard/dashboard.html`
+- 👉 Open file:///C:/Users/Admin/Desktop/Healthcare-SaaS-Onboarding-Project/Performance%20Dashboard/!DOCTYPE.html
 - It works offline! Just double-click to run in Chrome
 
 ---
@@ -63,16 +63,5 @@ This project is ideal for:
 | NPS Score | -28 | **+52** ✅ |
 | Feature Adoption | Low | **+137% improvement** ✅ |
 
----
 
-## 🌐 Bonus
-
-You can deploy the dashboard on GitHub Pages  
-→ Settings > Pages > Choose branch: `main`, folder: `root`
-
----
-
-## ✨ Credits
-
-Created with love by [Your Name] – No-code Prompt Engineer + AI Strategist  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com) or [Email](mailto:youremail@example.com)
+📫 Connect with me on [LinkedIn]https://in.linkedin.com/in/prabhneet-kaur-858470203 or [Email]kaurprabhneet16@gmail.com
