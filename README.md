@@ -38,6 +38,7 @@ To identify user drop-offs, simplify complex onboarding flows, and create a mult
 > Want to preview the performance dashboard?
 
 - 👉 Open file:///C:/Users/Admin/Desktop/Healthcare-SaaS-Onboarding-Project/Performance%20Dashboard/!DOCTYPE.html
+- https://prabhneetka.github.io/Healthcare-Saas-Onboarding/
 - It works offline! Just double-click to run in Chrome
 
 ---
